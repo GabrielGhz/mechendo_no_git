@@ -5,7 +5,7 @@
 Para rodar esse projeto em sua máquina, por favor digite:
 
 ...
-node app.js
+So estamos testando o git, da um confirm ae kkkk
 ...
 
 :)
