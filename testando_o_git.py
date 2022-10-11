@@ -1,1 +1,0 @@
-print("O rogerionho, fi do bill, o melhor do mundo")
