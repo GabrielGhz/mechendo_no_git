@@ -5,7 +5,7 @@
 Para rodar esse projeto em sua máquina, por favor digite:
 
 ...
-So estamos testando o git, da um confirm ae kkkk
+Testando ao usar o git, add e commit em arquivos
 ...
 
 :)
